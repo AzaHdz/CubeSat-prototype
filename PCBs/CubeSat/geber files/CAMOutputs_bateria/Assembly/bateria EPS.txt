@@ -1,0 +1,6 @@
+Partlist exported from /Users/aza/Documents/EAGLE/projects/CubeSat/bateria EPS.sch at 4/8/20 2:00 PM
+
+Qty Value Device     Package Parts                  Description                                                                                                     PROD_ID   
+1         CONN_04PTH 1X04    LM3671                 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-09696
+2         CONN_08"   1X08    INA260, POWERBOOST500C Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-08438
+1         CONN_10"   1X10    CUBESAT_BUS            Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections CONN-11563

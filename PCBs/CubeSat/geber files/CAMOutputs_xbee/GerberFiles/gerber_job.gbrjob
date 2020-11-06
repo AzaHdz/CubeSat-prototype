@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-08T19:23:44Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Xbee-ATmega"
+        },
+        "Owner": "Aza95el Aza95el <aza95el@gmail.com>",
+        "Size": {
+            "X": 95.89,
+            "Y": 90.17
+        }
+    }
+}
